@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ablearn/static/css/main.ea9d9f87.css",
-    "main.js": "/ablearn/static/js/main.1d581f98.js",
+    "main.js": "/ablearn/static/js/main.1fca9f85.js",
     "static/js/146.743f1c20.chunk.js": "/ablearn/static/js/146.743f1c20.chunk.js",
     "static/media/login-back.jpg": "/ablearn/static/media/login-back.b786d2df59ffd8ae113f.jpg",
     "static/media/logo.svg": "/ablearn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ablearn/index.html",
     "main.ea9d9f87.css.map": "/ablearn/static/css/main.ea9d9f87.css.map",
-    "main.1d581f98.js.map": "/ablearn/static/js/main.1d581f98.js.map",
+    "main.1fca9f85.js.map": "/ablearn/static/js/main.1fca9f85.js.map",
     "146.743f1c20.chunk.js.map": "/ablearn/static/js/146.743f1c20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea9d9f87.css",
-    "static/js/main.1d581f98.js"
+    "static/js/main.1fca9f85.js"
   ]
 }
